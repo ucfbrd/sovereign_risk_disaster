@@ -1,2 +1,5 @@
-requests
+numba
+numpy
 quantecon
+requests
+wbdata
