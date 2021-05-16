@@ -10,7 +10,7 @@ def tauchen(rho, sigma_u, h=0, m=3, n=7):
     Computes a Markov chain associated with a discretized version of
     the linear Gaussian AR(1) process
 
-    https://quanteconpy.readthedocs.io/en/latest/_modules/quantecon/markov/approximation.html#tauchen
+    Adapted from: https://quanteconpy.readthedocs.io/en/latest/_modules/quantecon/markov/approximation.html#tauchen
 
     .. math::
 
